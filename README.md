@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://linuxscripthub.com/zorvix/download.html"><b>Download</b></a> ·
+  <a href="https://youtu.be/sJHcfDMR5Mk">Video</a> ·
   <a href="https://linuxscripthub.com/zorvix/index.html">Website</a> ·
   <a href="https://linuxscripthub.com/zorvix/faq.html">FAQ</a> ·
   <a href="https://linuxscripthub.com/zorvix/config.html">Configuration</a> ·
@@ -17,6 +18,16 @@
 ---
 
 ![The Zorvix desktop](images/desktop.jpg)
+
+## See it in action
+
+<p align="center">
+  <a href="https://youtu.be/sJHcfDMR5Mk">
+    <img src="https://img.youtube.com/vi/sJHcfDMR5Mk/maxresdefault.jpg" alt="Watch the Zorvix video on YouTube" width="80%">
+  </a>
+  <br>
+  <a href="https://youtu.be/sJHcfDMR5Mk"><b>▶ Watch the Zorvix video on YouTube</b></a>
+</p>
 
 ## What is Zorvix?
 
